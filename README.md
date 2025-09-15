@@ -6,7 +6,7 @@ I work for a programmer named Benjamin Robinson, where I'm privileged to work wi
 
 I am blessed to be able to serve my God and my church family by using my gift of building web applications.  I've been able to create a slides app for my youth group, as well as create a custom Bible reading app for one of my brothers in Christ.
 
-I'm constantly learning tons of new things, such as physics, networking, the rendering pipeline, data compression, web design, and much more.  I'm hoping to one day learn binary operations, vectors and linear algebra, fragment shaders, (how to socialize), and calculus.
+I'm constantly learning tons of new things, such as physics, networking, the rendering pipeline, data compression, web design, and much more.  I'm hoping to one day learn binary operations, vectors and linear algebra, fragment shaders, and calculus.
 
 <div align="center">
   <img height="48" src="./icons/html.svg" alt="HTML 5 icon" />
